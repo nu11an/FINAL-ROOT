@@ -42,7 +42,7 @@ h1,h2,h3,h4,h5,h6,p,pre{
     color: #818181;
     display: block;
     transition: 0.3s;
-	width: 125px;
+	width: 150px;
 }
 
 
@@ -53,9 +53,8 @@ h1,h2,h3,h4,h5,h6,p,pre{
 .sidepanel .closebtn {
     position: absolute;
     top: 0;
-    right: -84px;
+    right: -110px;
     font-size: 36px;
-    margin-left: 50px;
 }
 
 .openbtn {
