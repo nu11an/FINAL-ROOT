@@ -13,25 +13,39 @@ h1,h2,h3,h4,h5,h6,p,pre{
 	color: #fed0bb;
 	font-family: 'Josefin Sans', sans-serif;
 }
+.content{
+	font-size: 20pt;
+	text-align: center;
+	margin-top: 250px;
+}
+.content2{
+	text-align: center;
+	margin-top: -20px;
+}
 .headings{
 	margin-left: 160px;
 	margin-top: 15px;
+}
+.subscripts{
+	margin-left: 375px;
+	margin-top: -60px;
+	color: #fcb9b2;
 }
 .homelogo{
 	position: fixed;
 	margin-left: 75px;
 }
 .sidepanel {
-    height: 100%; /* Specify a height */
-    width: 0; /* 0 width - change this with JavaScript */
-    position: fixed; /* Stay in place */
-    z-index: 3; /* Stay on top */
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 3;
     top: 0;
     left: 0;
-    background-color: black; /*Black*/
-    overflow-x: hidden; /*Disable horizontal scroll */
-    padding-top: 60px; /* Place content 60px from the top */
-    transition: 0.5s; /* 0.5 second transition effect to slide in the sidepanel */
+    background-color: black;
+    overflow-x: hidden;
+    padding-top: 60px;
+    transition: 0.5s;
 	font-family: 'Josefin Sans', sans-serif;
 }
 
